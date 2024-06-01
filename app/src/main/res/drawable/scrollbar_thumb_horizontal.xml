@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:width="2dp" />
+    <corners android:radius="8dp" /> <!-- Adjust the radius as needed -->
+    <solid android:color="@color/material_on_surface_emphasis_high_type" /> <!-- Replace with your desired color -->
+</shape>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeaGo</string>
+    <string name="logo">logo</string>
+    <string name="location">Location</string>
+    <string name="location_logo">location logo</string>
+    <string name="current_location">Current location</string>
+    <string name="sample_degree">25°c</string>
+    <string name="now">Now</string>
+    <string name="feels_like_example">Feels like 30°c</string>
+    <string name="temperature_logo">temperature logo</string>
+    <string name="date">Date</string>
+    <string name="condition">Condition</string>
+    <string name="example">Example:</string>
+    <string name="_50">50%</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="temperature_max_min_example">35°/25°</string>
+    <string name="sat_1_jun">Sat, 1 Jun</string>
+    <string name="_7_days_forecast">7 Days Forecast</string>
+    <string name="additional_info">Additional Info</string>
+</resources>
